@@ -3,7 +3,7 @@
  
 - 🌱 I’m currently learning **Micro services**
 
-- 💬 Ask me about **JAVASCRIPT,TYPESCRIPT,REACT,NEXTJS,TAILWIND,NODEJS,EXPRESSJS,MONGODB,MYSQL**
+- 💬 Ask me about **JAVASCRIPT, TYPESCRIPT, REACT, NEXTJS, TAILWIND, NODEJS, EXPRESSJS, MONGODB, MYSQL**
 
 - 📫 How to reach me **muhammedahsanc@gmail.com**
 ---
