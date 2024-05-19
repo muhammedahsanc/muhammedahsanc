@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ahsan  </h1>
+ <h1 align="center">Hi 👋, I'm Ahsan  </h1>
 <h3 align="center">A passionate full stack developer from India</h3>
  
 - 🌱 I’m currently learning **Micro services**
 
-- 👯 I’m looking to collaborate on **open source projects**
-
-- 💬 Ask me about **JS,REACT,TS,NODE,MONGODB,MYSQL,PHP,CODEIGNITER4,TAILWIND,**
+- 💬 Ask me about **JAVASCRIPT,TYPESCRIPT,REACT,NEXTJS,TAILWIND,NODEJS,EXPRESSJS,MONGODB,MYSQL**
 
 - 📫 How to reach me **muhammedahsanc@gmail.com**
 ---
